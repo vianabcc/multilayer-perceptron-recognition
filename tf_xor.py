@@ -1,5 +1,3 @@
-#!/home/vinicius/anaconda3/envs/tensorflow/bin/python
-
 import tensorflow as tf
 import numpy as np
 
